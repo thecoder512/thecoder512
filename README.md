@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thecoder512 ,
+- 👋 Hi, I’m @thecoder512 , Ahmed ayob
 - 👀 I’m interested in programing ,
 - 🌱 I’m currently learning front-end devolepment ,
 - 💞️ I’m looking to collaborate on big project to put my touch in the technology ,
